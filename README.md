@@ -1,4 +1,4 @@
-# Git
+# Git y Github
 ## Comprobar que Git esté instalado
 
 ```
